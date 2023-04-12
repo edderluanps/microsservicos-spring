@@ -1,6 +1,8 @@
 # microsservicos-spring
 
-## Repositório criado para estudo de arquitetura de microsserviços com Spring
+## Objetivo
+
+Repositório criado para estudo de arquitetura de microsserviços com Spring
 
 ### Ferramentas
 
