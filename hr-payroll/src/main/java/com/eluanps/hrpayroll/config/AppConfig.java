@@ -1,4 +1,4 @@
-package com.eluanps.hrpayroll.cofig;
+package com.eluanps.hrpayroll.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
